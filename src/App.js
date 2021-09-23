@@ -25,18 +25,18 @@ function App() {
 
   return (
     <HashRouter basename='/'>
-          <div>
-            <div id="hamburger" onClick={ () => isgrow ? closeNav() : openNav() }>
-              <div></div>
-              <div></div>
-              <div></div>
-            </div>
-            <Navbar nav={nav} />
-            <Switch>
-              <Route exact path='/' component={Homepage} />
-              <Route path='/faq' component={Faq} />
-            </Switch>
-          </div>
+      <div>
+        <div id="hamburger" onClick={ () => isgrow ? closeNav() : openNav() }>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+        <Navbar nav={nav} />
+        <Switch>
+          <Route exact path='/' component={Homepage} />
+          <Route path='/faq' component={Faq} />
+        </Switch>
+      </div>
     </HashRouter>
 );
 }
