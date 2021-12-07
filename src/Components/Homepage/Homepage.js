@@ -5,6 +5,7 @@ import About from './About/About.js';
 import What from './What/What.js';
 import Partners from './Partners/Partners.js';
 import Contact from './Contact/Contact.js';
+import Schedule from './Schedule/Schedule.js'
 
 function Homepage() {
   return (
