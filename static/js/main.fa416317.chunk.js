@@ -109,10 +109,10 @@
                             children: [r ? Object(d.jsxs)("div", {
                                 id: "title",
                                 children: [Object(d.jsx)("div", {
-                                    children: "HelloWorld 2021"
+                                    children: "CUhackit 2022"
                                 }), Object(d.jsx)("div", {
                                     id: "eventdate",
-                                    children: "October 16"
+                                    children: "January 29 & 30"
                                 }), Object(d.jsxs)("div", {
                                     id: "subtitle",
                                     children: [Object(d.jsx)("div", {
