@@ -122,7 +122,7 @@
                                         })
                                     }), Object(d.jsx)("div", {
                                         children: Object(d.jsx)("a", {
-                                            href: "https://docs.google.com/forms/d/e/1FAIpQLScocyUsqDqTnUCfqYat99ly1W6hFI3-RC8jmom8Wgf0b64ppw/viewform?usp=sf_link",
+                                            href: "https://docs.google.com/forms/d/e/1FAIpQLScnrLtfxC3vRHKvitB-AGY5YmZ__bjAuXMUk7uZMcVV4CW1Kg/viewform?usp=sf_link",
                                             children: "Become a mentor"
                                         })
                                     })]
