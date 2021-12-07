@@ -11,6 +11,7 @@ function Homepage() {
     <div className="App">
       <Landing title="Landing" />
       <About title="About" id="about" />
+      <Schedule title="Schedule" id="schedule />
       <What title="What" id="what" />
       <Partners title="Partners" id="partners"/>
       <Contact title="Contact" id="contact" />
