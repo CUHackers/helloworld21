@@ -117,7 +117,7 @@
                                     id: "subtitle",
                                     children: [Object(d.jsx)("div", {
                                         children: Object(d.jsx)("a", {
-                                            href: "https://forms.gle/vb3dLak3M8b8dhFx8",
+                                            href: "https://forms.gle/XeFLi16APKSEypGo9",
                                             children: "Become a hacker"
                                         })
                                     }), Object(d.jsx)("div", {
