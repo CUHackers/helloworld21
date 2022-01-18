@@ -197,6 +197,7 @@
                     })
                 },
                 x = (t(52), t.p + "static/media/SoCLogo.9b77e9ff.png"),
+                y = (t(52), t.p + "static/media/sticker-mule-logo-light-stacked.png"),
                 v = t.p + "static/media/thankyou.e76858d0.png";
             var E = function() {
                     return Object(d.jsx)("div", {
@@ -221,6 +222,17 @@
                                         children: Object(d.jsx)("div", {
                                             style: {
                                                 backgroundImage: "url(".concat(x, ")")
+                                            }
+                                        })
+                                    })
+                                }) , Object(d.jsx)("div", {
+                                    className: "thepartner",
+                                    children: Object(d.jsx)("a", {
+                                        href: "http://hackp.ac/mlh-stickermule-hackathons",
+                                        target: "_blank",
+                                        children: Object(d.jsx)("div", {
+                                            style: {
+                                                backgroundImage: "url(".concat(y, ")")
                                             }
                                         })
                                     })
