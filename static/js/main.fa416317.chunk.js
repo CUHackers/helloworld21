@@ -216,7 +216,7 @@
                                     children: "in partnership with"
                                 }), Object(d.jsx)("div", {
                                     className: "thepartner",
-                                    children: Object(d.jsx)("a", {
+                                    children: [Object(d.jsx)("a", {
                                         href: "https://www.clemson.edu/cecas/departments/computing/",
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
@@ -224,10 +224,8 @@
                                                 backgroundImage: "url(".concat(x, ")")
                                             }
                                         })
-                                    })
-                                }) , Object(d.jsx)("div", {
-                                    className: "thepartner",
-                                    children: Object(d.jsx)("a", {
+                                    }),
+                                    Object(d.jsx)("a", {
                                         href: "http://hackp.ac/mlh-stickermule-hackathons",
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
@@ -235,7 +233,7 @@
                                                 backgroundImage: "url(".concat(y, ")")
                                             }
                                         })
-                                    })
+                                    })]
                                 })]
                             })]
                         })
