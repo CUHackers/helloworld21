@@ -197,7 +197,6 @@
                     })
                 },
                 x = (t(52), t.p + "static/media/SoCLogo.9b77e9ff.png"),
-                sm = (t(52), t.p + "static/media/sticker-mule-logo-light-stacked.png"),
                 v = t.p + "static/media/thankyou.e76858d0.png";
             var E = function() {
                     return Object(d.jsx)("div", {
@@ -230,7 +229,7 @@
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
                                             style: {
-                                                backgroundImage: "url(".concat(sm, ")")
+                                                backgroundImage: "url(static/media/sticker-mule-logo-light-stacked.png)"
                                             }
                                         })
                                     })]
