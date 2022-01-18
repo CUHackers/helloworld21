@@ -229,7 +229,7 @@
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
                                             style: {
-                                                backgroundImage: "url(static/media/sticker-mule-logo-light-stacked.png)"
+                                                backgroundImage: "url(/static/media/sticker-mule-logo-light-stacked.png)"
                                             }
                                         })
                                     })]
