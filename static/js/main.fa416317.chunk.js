@@ -229,7 +229,7 @@
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
                                             style: {
-                                                backgroundImage: "url(static/js/new/AWS_Logo.png)"
+                                                backgroundImage: "url(/static/js/new/AWS_Logo.png)"
                                             }
                                         })
                                     }),
@@ -238,7 +238,7 @@
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
                                             style: {
-                                                backgroundImage: "url(static/js/new/Blackbaud Logo.png)"
+                                                backgroundImage: "url(/static/js/new/Blackbaud Logo.png)"
                                             }
                                         })
                                     }),
@@ -247,7 +247,7 @@
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
                                             style: {
-                                                backgroundImage: "url(static/js/new/ge_monogram_dark gray_432.png)"
+                                                backgroundImage: "url(/static/js/new/ge_monogram_dark gray_432.png)"
                                             }
                                         })
                                     }),
@@ -256,7 +256,7 @@
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
                                             style: {
-                                                backgroundImage: "url(static/js/new/GLS new_png (1).png)"
+                                                backgroundImage: "url(/static/js/new/GLS new_png (1).png)"
                                             }
                                         })
                                     }),
@@ -265,7 +265,7 @@
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
                                             style: {
-                                                backgroundImage: "url(static/js/new/Softdocs-Logo-RGB-Solid.png)"
+                                                backgroundImage: "url(/static/js/new/Softdocs-Logo-RGB-Solid.png)"
                                             }
                                         })
                                     }),
@@ -274,7 +274,7 @@
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
                                             style: {
-                                                backgroundImage: "url(static/js/new/Logo-darkblue.png)"
+                                                backgroundImage: "url(/static/js/new/Logo-darkblue.png)"
                                             }
                                         })
                                     }),
@@ -283,7 +283,7 @@
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
                                             style: {
-                                                backgroundImage: "url(static/js/new/sticker-mule-logo.png)"
+                                                backgroundImage: "url(/static/js/new/sticker-mule-logo.png)"
                                             }
                                         })
                                     })]
