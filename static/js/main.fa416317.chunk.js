@@ -238,7 +238,7 @@
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
                                             style: {
-                                                backgroundImage: "url(/static/js/new/Blackbaud Logo.png)"
+                                                backgroundImage: "url(/static/js/new/Blackbaud_Logo.png)"
                                             }
                                         })
                                     }),
@@ -247,7 +247,7 @@
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
                                             style: {
-                                                backgroundImage: "url(/static/js/new/ge_monogram_dark gray_432.png)"
+                                                backgroundImage: "url(/static/js/new/ge_monogram_dark_gray_432.png)"
                                             }
                                         })
                                     }),
@@ -256,7 +256,7 @@
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
                                             style: {
-                                                backgroundImage: "url(/static/js/new/GLS new_png (1).png)"
+                                                backgroundImage: "url(/static/js/new/GLS_new_png.png)"
                                             }
                                         })
                                     }),
