@@ -757,12 +757,6 @@ header {
 	clear: both;
 }
 
-.thepartner
-{
-	margin: 0;
-	height: 90vh;
-}
-
 .partnerhead {
 	font-family: lores-15-bold-alt-oakland, sans-serif;
 	font-weight: 400;
@@ -852,8 +846,8 @@ header {
 
 @media only screen and (min-width:700px) {
 	.thepartner {
-		max-width: 50%;
-		height: 25%;
+		max-width: 90%;
+		height: 60vh;
 		margin: auto
 	}
 	.thepartner a {
