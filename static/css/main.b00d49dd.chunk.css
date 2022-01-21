@@ -731,10 +731,22 @@ header {
 	background-color: #f7aec9;
 	height: 95vh;
 	margin: 0;
-	padding: 0;
+	padding: 0 4px;
 	width: 100vw;
 	display: flex;
 	flex-wrap: wrap
+}
+
+.innergrid {
+	flex: 25%;
+	max-width: 25%;
+	padding: 0 4px;
+}
+
+.innergrid img {
+	margin-top: 8px;
+	width: 100%;
+	padding: 10px;
 }
 
 .partnerhead {
