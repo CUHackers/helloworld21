@@ -744,14 +744,12 @@ header {
 }
 .innergrid {
 	flex: 25%;
-	max-width: 25%;
 	padding: 0 4px;
 }
 
 .innergrid a {
 	margin-top: 8px;
-	width: 100%;
-	padding: 10px;
+	vertical-align: middle;
 }
 
 .partnerhead {
