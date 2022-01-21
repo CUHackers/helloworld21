@@ -216,6 +216,9 @@
                                 }), Object(d.jsx)("div", {
                                     className: "thepartner",
                                     children:
+                                    Object(d.jsx)("div", {
+                                        className: "outergrid",
+                                        children:
                                         [Object(d.jsx)("div", {
                                             className: "innergrid",
                                             children:
@@ -301,6 +304,7 @@
                                                             })
                                                         })]
                                                     })]
+                                                })
                                 })]
                             })]
                         })
