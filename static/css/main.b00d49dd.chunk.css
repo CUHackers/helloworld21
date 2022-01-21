@@ -748,7 +748,7 @@ header {
 }
 
 .innergrid a {
-	margin-top: 8px;
+	padding: 0 4px;
 }
 
 .partnerhead {
