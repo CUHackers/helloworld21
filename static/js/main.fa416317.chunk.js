@@ -232,6 +232,37 @@
                                                     })
                                                 }),
                                                 Object(d.jsx)("a", {
+                                                    href: "https://glsauto.com/",
+                                                    target: "_blank",
+                                                    children: Object(d.jsx)("div", {
+                                                        style: {
+                                                            backgroundImage: "url(/static/js/new/GLS_new_png.png)"
+                                                        }
+                                                    })
+                                                }),
+                                                Object(d.jsx)("a", {
+                                                    href: "https://www.softdocs.com/",
+                                                    target: "_blank",
+                                                    children: Object(d.jsx)("div", {
+                                                        style: {
+                                                            backgroundImage: "url(/static/js/new/Softdocs-Logo-RGB-Solid.png)"
+                                                        }
+                                                    })
+                                                }),
+                                                Object(d.jsx)("a", {
+                                                    href: "https://www.assemblyai.com/",
+                                                    target: "_blank",
+                                                    children: Object(d.jsx)("div", {
+                                                        style: {
+                                                            backgroundImage: "url(/static/js/new/Logo-darkblue.png)"
+                                                        }
+                                                    })
+                                                })
+                                                ]}),
+                                        Object(d.jsx)("div", {
+                                            className: "innergrid",
+                                            children:
+                                                [Object(d.jsx)("a", {
                                                     href: "https://aws.amazon.com/",
                                                     target: "_blank",
                                                     children: Object(d.jsx)("div", {
@@ -239,11 +270,8 @@
                                                             backgroundImage: "url(/static/js/new/AWS_Logo.png)"
                                                         }
                                                     })
-                                                })]}),
-                                        Object(d.jsx)("div", {
-                                            className: "innergrid",
-                                            children:
-                                                [Object(d.jsx)("a", {
+                                                }),
+                                                    Object(d.jsx)("a", {
                                                     href: "https://www.blackbaud.com/",
                                                     target: "_blank",
                                                     children: Object(d.jsx)("div", {
@@ -260,51 +288,18 @@
                                                             backgroundImage: "url(/static/js/new/ge_monogram_dark_gray_432.png)"
                                                         }
                                                     })
-                                                })]}),
-                                        Object(d.jsx)("div", {
-                                                className: "innergrid",
-                                                children:
-                                                    [Object(d.jsx)("a", {
-                                                        href: "https://glsauto.com/",
-                                                        target: "_blank",
-                                                        children: Object(d.jsx)("div", {
-                                                            style: {
-                                                                backgroundImage: "url(/static/js/new/GLS_new_png.png)"
-                                                            }
-                                                        })
-                                                    }),
-                                                    Object(d.jsx)("a", {
-                                                        href: "https://www.softdocs.com/",
-                                                        target: "_blank",
-                                                        children: Object(d.jsx)("div", {
-                                                            style: {
-                                                                backgroundImage: "url(/static/js/new/Softdocs-Logo-RGB-Solid.png)"
-                                                            }
-                                                        })
-                                                    })]}),
-                                        Object(d.jsx)("div", {
-                                                className: "innergrid",
-                                                children:
-                                                        [Object(d.jsx)("a", {
-                                                            href: "https://www.assemblyai.com/",
-                                                            target: "_blank",
-                                                            children: Object(d.jsx)("div", {
-                                                                style: {
-                                                                    backgroundImage: "url(/static/js/new/Logo-darkblue.png)"
-                                                                }
-                                                            })
-                                                        }),
-                                                        Object(d.jsx)("a", {
-                                                            href: "http://hackp.ac/mlh-stickermule-hackathons",
-                                                            target: "_blank",
-                                                            children: Object(d.jsx)("div", {
-                                                                style: {
-                                                                    backgroundImage: "url(/static/js/new/sticker-mule-logo.png)"
-                                                                }
-                                                            })
-                                                        })]
-                                                    })]
+                                                }),
+                                                Object(d.jsx)("a", {
+                                                    href: "http://hackp.ac/mlh-stickermule-hackathons",
+                                                    target: "_blank",
+                                                    children: Object(d.jsx)("div", {
+                                                        style: {
+                                                            backgroundImage: "url(/static/js/new/sticker-mule-logo.png)"
+                                                        }
+                                                    })
                                                 })
+                                            ]}),
+                                        ]})
                                 })]
                             })]
                         })
