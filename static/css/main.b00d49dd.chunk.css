@@ -743,12 +743,18 @@ header {
 	padding: 0 4px;
 }
 .innergrid {
-	flex: 25%;
-	padding: 0 4px;
+	float: left;
+	width: 25%;
 }
 
 .innergrid a {
 	padding: 0 4px;
+}
+
+.outergrid:after {
+	content: "";
+	display: table;
+	clear: both;
 }
 
 .partnerhead {
