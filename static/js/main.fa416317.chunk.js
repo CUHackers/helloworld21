@@ -220,72 +220,72 @@
                                         href: "https://www.clemson.edu/cecas/departments/computing/",
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
-                                            style: {
-                                                backgroundImage: "url(".concat(x, ")")
-                                            }
+                                            children: Object(d.jsx)("img", {
+                                                src: "/static/media/SoCLogo.9b77e9ff.png"
+                                            })
                                         })
                                     }),
                                     Object(d.jsx)("a", {
                                         href: "https://glsauto.com/",
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
-                                            style: {
-                                                backgroundImage: "url(/static/js/new/GLS_new_png.png)"
-                                            }
+                                            children: Object(d.jsx)("img", {
+                                                src: "/static/js/new/GLS_new_png.png"
+                                            })
                                         })
                                     }),
                                     Object(d.jsx)("a", {
                                         href: "https://www.softdocs.com/",
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
-                                            style: {
-                                                backgroundImage: "url(/static/js/new/Softdocs-Logo-RGB-Solid.png)"
-                                            }
+                                            children: Object(d.jsx)("img", {
+                                                src: "/static/js/new/Softdocs-Logo-RGB-Solid.png"
+                                            })
                                         })
                                     }),
                                     Object(d.jsx)("a", {
                                         href: "https://www.assemblyai.com/",
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
-                                            style: {
-                                                backgroundImage: "url(/static/js/new/Logo-darkblue.png)"
-                                            }
+                                            children: Object(d.jsx)("img", {
+                                                src: "/static/js/new/Logo-darkblue.png"
+                                            })
                                         })
                                     }),
                                     Object(d.jsx)("a", {
                                         href: "https://aws.amazon.com/",
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
-                                            style: {
-                                                backgroundImage: "url(/static/js/new/AWS_Logo.png)"
-                                            }
+                                            children: Object(d.jsx)("img", {
+                                                src: "/static/js/new/AWS_Logo.png"
+                                            })
                                         })
                                     }),
                                         Object(d.jsx)("a", {
                                         href: "https://www.blackbaud.com/",
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
-                                            style: {
-                                                backgroundImage: "url(/static/js/new/Blackbaud_Logo.png)"
-                                            }
+                                            children: Object(d.jsx)("img", {
+                                                src: "/static/js/new/Blackbaud_Logo.png"
+                                            })
                                         })
                                     }),
                                     Object(d.jsx)("a", {
                                         href: "https://www.ge.com/",
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
-                                            style: {
-                                                backgroundImage: "url(/static/js/new/ge_monogram_dark_gray_432.png)"
-                                            }
+                                            children: Object(d.jsx)("img", {
+                                                src: "/static/js/new/ge_monogram_dark_gray_432.png"
+                                            })
                                         })
                                     }),
                                     Object(d.jsx)("a", {
                                         href: "http://hackp.ac/mlh-stickermule-hackathons",
                                         target: "_blank",
                                         children: Object(d.jsx)("div", {
-                                            style: {
-                                                backgroundImage: "url(/static/js/new/sticker-mule-logo.png)"
-                                            }
+                                            children: Object(d.jsx)("img", {
+                                                src: "/static/js/new/sticker-mule-logo.png"
+                                            })
                                         })
                                     })
                                 ]
