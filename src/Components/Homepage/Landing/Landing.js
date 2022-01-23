@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import device from './Tempsite-device.png';
+import device from './bowls.png';
 import Textcluster from './Textcluster.js';
 import Sprite2 from './Sprite2.js';
 import Sprite3 from './Sprite3.js';
@@ -25,13 +25,13 @@ const Landing = (props) => {
 
   return (
     <div>
-      <header style={{backgroundImage: `url(${bg2})`}}>
+      <header style={{backgroundColor: "#aed1cf"}}>
         {sprite ? titleoption() : ""}
         <div style={{
           backgroundImage: `url(${device})`
         }} id="console" >
           <div id="landinggroup">
-            {loading ? <></> : sprite ? <Sprite3 /> : <Textcluster />}
+            {loading ? <></> : sprite ? <></> : <Textcluster />}
           </div>
         </div>
       </header>
