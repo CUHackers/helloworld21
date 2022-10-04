@@ -12,7 +12,7 @@ function Homepage() {
       <Landing title="Landing" />
       <About title="About" id="about" />
       <What title="What" id="what" />
-      <Partners title="Partners" id="partners"/>
+      {/* <Partners title="Partners" id="partners"/> */}
       <Contact title="Contact" id="contact" />
     </div>
   );

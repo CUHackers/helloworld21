@@ -35,10 +35,10 @@ function App() {
             <Switch>
               <Route exact path='/' component={Homepage} />
               <Route path='/faq' component={Faq} />
-              <Route path='/play' component={() => {
+              {/* <Route path='/play' component={() => {
               global.window && (global.window.location.href = 'https://cuhackers.github.io/play/');
               return null;
-              }} />
+              }} /> */}
             </Switch>
           </div>
     </HashRouter>
