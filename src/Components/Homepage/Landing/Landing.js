@@ -14,10 +14,10 @@ const Landing = (props) => {
   function titleoption() {
     return (
       <div id="title">
-        <div>HelloWorld</div>
-        <div id="eventdate">October 29th</div>
+        <div>CUhackit 2023</div>
+        <div id="eventdate">February 4th and 5th</div>
         <div id="subtitle">
-          <div><a href="https://forms.gle/C5M55vn4q9tM1WqH7">Become a hacker</a></div>
+          <div><a href="https://cuhackit.typeform.com/to/kVschrcN">Become a hacker</a></div>
           <div><a href="https://forms.gle/ZL98836nvb3jrJ6a9">Become a mentor</a></div>
         </div>
       </div>
