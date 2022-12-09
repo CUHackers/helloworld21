@@ -11,6 +11,10 @@ const Landing = (props) => {
     const [sprite, setSprite] = React.useState(true);
 
     function titleoption() {
+        const thirdDivStyle = {
+            backgroundColor: "#EEC25E",
+            borderRadius: "15px",
+        };
         return (
             <div id="title">
                 <div>CUhackit 2023</div>
@@ -26,7 +30,7 @@ const Landing = (props) => {
                             Become a mentor!
                         </a>
                     </div>
-                    <div>
+                    <div style={thirdDivStyle}>
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfluFId8UPOT4wJZ4o_0ZQXk0l66hskL5x4I79GOLIZ5xMG7w/viewform?usp=sf_link">
                             Lead a workshop!
                         </a>
