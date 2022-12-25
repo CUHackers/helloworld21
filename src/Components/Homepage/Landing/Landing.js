@@ -19,6 +19,7 @@ const Landing = (props) => {
             <div id="title">
                 <div>CUhackit 2023</div>
                 <div id="eventdate">February 4th and 5th</div>
+                <div id="eventdate">Watt Family Innovation Center</div>
                 <div id="subtitle">
                     <div>
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAAfNHaaM1jO_0jSUctC95fdfccfYmc_zBT69dg9-ej5F6WQ/viewform?usp=sf_link">
