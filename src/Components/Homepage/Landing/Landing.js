@@ -15,6 +15,10 @@ const Landing = (props) => {
             backgroundColor: "#EEC25E",
             borderRadius: "15px",
         };
+        const fourthDivStyle = {
+            backgroundColor: "#ECA498",
+            borderRadius: "15px",
+        };
         return (
             <div id="title">
                 <div>CUhackit 2023</div>
@@ -34,6 +38,12 @@ const Landing = (props) => {
                     <div style={thirdDivStyle}>
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfluFId8UPOT4wJZ4o_0ZQXk0l66hskL5x4I79GOLIZ5xMG7w/viewform?usp=sf_link">
                             Lead a workshop!
+                        </a>
+                    </div>
+                    <div style={fourthDivStyle}>
+                        //fix link!!!!!
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAAfNHaaM1jO_0jSUctC95fdfccfYmc_zBT69dg9-ej5F6WQ/viewform?usp=sf_link">
+                            Become a partner!
                         </a>
                     </div>
                 </div>
